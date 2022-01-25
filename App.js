@@ -6,7 +6,7 @@ export default function App() {
 
   const [people, setPeople] = useState(
     [
-      { name: 'abdul', key: '1' },
+      //{ name: 'abdul', key: '1' },
       { name: 'ansari', key: '2' },
       { name: 'abhinav', key: '3' },
       { name: 'niket', key: '4' },
