@@ -20,7 +20,7 @@ export default function App() {
       { name: 'ansari', key: '12' },
       { name: 'abhinav', key: '13' },
       { name: 'niket', key: '14' },
-      { name: 'harshit', key: '15' },
+     
 
     ]
   )
